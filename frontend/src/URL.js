@@ -1,0 +1,1 @@
+export const serverURL = process.env.REACT_APP_HTTP_SERVER_URL || '';

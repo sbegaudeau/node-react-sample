@@ -1,0 +1,3 @@
+= Node React Sample
+
+Sample project showing how to create a Node.js + React webap.
